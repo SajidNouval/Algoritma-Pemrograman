@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1711014992 source:c:\users\sajid\onedrive\documents\undip4\praktikum alpro\sajid nouval_24060122140110_pertemuan05_e2\praktikum5\mtabel.c
+	<stdio.h>
+	<stdlib.h>
+
+1711015113 source:c:\users\sajid\onedrive\documents\undip4\praktikum alpro\sajid nouval_24060122140110_pertemuan05_e2\praktikum5\tabel.c
+	"tabel1.h"
+	<stdio.h>
+
+1711014991 c:\users\sajid\onedrive\documents\undip4\praktikum alpro\sajid nouval_24060122140110_pertemuan05_e2\praktikum5\tabel1.h
+	"boolean.h"
+
+1711012791 c:\users\sajid\onedrive\documents\undip4\praktikum alpro\sajid nouval_24060122140110_pertemuan05_e2\praktikum5\boolean.h
+
