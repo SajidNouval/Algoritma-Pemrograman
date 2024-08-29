@@ -1,1 +1,1 @@
-# praktikumalpro
+# Praktikum Algoritma Pemrograman
